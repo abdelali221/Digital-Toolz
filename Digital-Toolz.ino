@@ -3,7 +3,7 @@ Term Term;
 
 int tableoffsetX = 16;
 int tableoffsetY = 5;
-int PINSTATE[] = {0, 0, 0, 0, 1, 1, 1, 1};
+int PINSTATE[] = {0, 0, 0, 0, 0, 0, 0, 0};
 int PINTYPE[] = {1, 1, 1, 1, 1, 1, 1, 1};
 
 void setup() {
